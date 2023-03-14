@@ -1,0 +1,1 @@
+BugFix: - [PdfPrint] Fixed offset issue when printing
